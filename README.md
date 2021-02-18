@@ -15,7 +15,7 @@
 >  - [opencv 설치](http://www.3demp.com/community/boardDetails.php?cbID=235)
  
 
-#### [발표내용](https://2020.koreatech.ac.kr/major/cse/5276874383558863)
+#### [발표내용 - for video](https://2020.koreatech.ac.kr/major/cse/5276874383558863)
 
 ![image](https://user-images.githubusercontent.com/18729679/108382444-3065f000-724c-11eb-8af8-b89f9c35f715.png)
 
